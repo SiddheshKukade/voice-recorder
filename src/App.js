@@ -2,7 +2,7 @@
  
  const App = () => {
    //custom hook returning the state and some handlers 
-  //  const {recorderState , ..handlers} = useRecorder();
+  //  const {recorderState , ..handlers} = useRecording();
   // const {audio} = recorderState;
    return (
      <div>App</div>
